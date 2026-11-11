@@ -1,0 +1,3 @@
+生成方式：内置 image_gen 工具。此文件记录最终修改提示词。
+
+Edit this project logo into a clean, strictly flat vector-like icon. Keep the two overlapping WeChat-green speech bubbles and the large white >_ shell prompt, same overall composition and proportions. Critical correction: remove the dark blotch/hole above and to the right of the > symbol completely; the entire foreground chat bubble must be one uniform solid vivid green (#07C160), fully opaque, without holes or textures. The rear bubble must be uniform solid dark emerald (#087F5B). White prompt fully opaque. All bubble edges must be smooth and crisp, no glow or noise. Absolutely no gradients, no lighting, no shadows, no patches, no stray marks. Transparent background only outside the two bubbles. One polished icon.

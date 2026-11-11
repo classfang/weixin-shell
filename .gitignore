@@ -1,0 +1,20 @@
+node_modules/
+.env
+.env.*
+!.env.example
+.weixin-shell/
+# 自定义状态目录中的运行文件及原子写入临时文件。
+session.json
+state.json
+process.lock
+session.json.*.tmp
+state.json.*.tmp
+coverage/
+*.log
+.DS_Store
+*.tgz
+.idea/
+.vscode/
+.claude/
+.codex/
+.mcp.json
